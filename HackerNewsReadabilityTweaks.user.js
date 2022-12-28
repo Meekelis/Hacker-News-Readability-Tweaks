@@ -2,7 +2,7 @@
 // @name         Hacker News Readability Tweaks
 // @namespace    HackerNewsReadabilityTweaks
 // @homepage     https://github.com/Meekelis/Hacker-News-Readability-Tweaks
-// @version      1
+// @version      2
 // @description  Improve Hacker News Readability
 // @author       Martin Gladdish & Kazimieras Mikelis
 // @downloadURL  https://raw.githubusercontent.com/Meekelis/Hacker-News-Readability-Tweaks/main/HackerNewsReadabilityTweaks.user.js
