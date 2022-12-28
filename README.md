@@ -39,7 +39,7 @@ The script has appropriate metadata to automatically update.
 
 ## Privacy
 
-Data not collected - this user script does not collect or send any data from your device.
+Data not collected - this userscript does not collect or send any data from your device.
 
 ## Acknowledgment
 
