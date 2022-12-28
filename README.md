@@ -32,7 +32,7 @@ A userscript to improve Hacker News ([news.ycombinator.com](https://news.ycombin
 ### Other
 
 1. Install a userscript extension for your browser like [Violentmonkey](https://violentmonkey.github.io), [Tampermonkey](https://www.tampermonkey.net), or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/),
-2. Add [HackerNewsReadabilityTweaks.js](https://raw.githubusercontent.com/Meekelis/Hacker-News-Readability-Tweaks/main/HackerNewsReadabilityTweaks.user.js) userscript to it using instructions provided by the extension maker. 
+2. Add [HackerNewsReadabilityTweaks.user.js](https://raw.githubusercontent.com/Meekelis/Hacker-News-Readability-Tweaks/main/HackerNewsReadabilityTweaks.user.js) userscript to it using instructions provided by the extension maker. 
 3. Enjoy more readable [Hacker News](https://news.ycombinator.com).
 
 The script has appropriate metadata to automatically update.
