@@ -108,7 +108,7 @@ const tampermonkeyScript = function() {
         color: black;
       }
 
-      a:hover {
+      .pagetop a:hover {
         text-decoration: underline;
       }
       
@@ -156,22 +156,34 @@ const tampermonkeyScript = function() {
         margin-left: var(--gutter);
       }
 
+      /* Custom vote arrows */
+      .votelinks
+      {
+        min-width: 32px;
+      }
+
       .votearrow {
         background: var(--colour-hn-orange-pale);
         border-radius: var(--border-radius);
-        min-width: 24px;
-        min-height: 24px;
-        margin: 0px 8px 0px 8px;
+        color: var(--colour-hn-orange);
+        display: block;
+        width: 24px;
+        height: 24px;
+        font-size: 16px;
+        position: relative;
+        top: 2px;
+      }
+
+      .votearrow:hover {
+        background: var(--colour-hn-orange);
+        color: white;
+        transition: background-color 0.1s;
+        transition: color 0.2s;
       } 
       
       .votearrow:after {
         content: \"⇧\";
-        display: block;
-        line-height: 1.45;
-        color: var(--colour-hn-orange);
-        font-size: 16px;
-        
-     }
+      }
 
     </style>`);
 
