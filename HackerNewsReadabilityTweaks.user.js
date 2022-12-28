@@ -12,7 +12,7 @@
 // @license      MIT
 // ==/UserScript==
 
-const tampermonkeyScript = function() {
+const userScript = function() {
     'use strict';
 
     document.head.insertAdjacentHTML("beforeend", `<style>
@@ -227,4 +227,4 @@ const tampermonkeyScript = function() {
     });
 }
 
-tampermonkeyScript();
+userScript();
