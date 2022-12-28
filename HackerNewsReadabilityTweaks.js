@@ -23,7 +23,7 @@ const tampermonkeyScript = function() {
 
       /* Reset font everywhere */
       html, body, td, .title, .comment, .default {
-        font-family: 'Helvetica Neue', 'Helvetica', 'Arial Neue', 'Arial', sans-serif;
+        font-family: 'Helvetica Neue', 'Helvetica', 'Arial Nova', 'Arial', sans-serif;
       }
 
       html, body {
