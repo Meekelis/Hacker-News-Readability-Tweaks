@@ -1,6 +1,6 @@
 # Hacker News Readability Tweaks
 
-A userscript to improve Hackernews (news.ycombinator.com) readability. 
+A userscript to improve Hackernews ([news.ycombinator.com](https://news.ycombinator.com/)) readability. 
 
 ## Features
 
