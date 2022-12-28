@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         Hacker News Readability Tweaks
-// @namespace    http://tampermonkey.net/
+// @namespace    HackerNewsReadabilityTweaks
+// @homepage     https://github.com/Meekelis/Hacker-News-Readability-Tweaks
 // @version      1
 // @description  Improve Hacker News Readability
 // @author       Martin Gladdish & Kazimieras Mikelis
-// @match        https://news.ycombinator.com/*
+// @downloadURL  https://raw.githubusercontent.com/Meekelis/Hacker-News-Readability-Tweaks/main/HackerNewsReadabilityTweaks.user.js
+// @updateURL    https://raw.githubusercontent.com/Meekelis/Hacker-News-Readability-Tweaks/main/HackerNewsReadabilityTweaks.user.js
+// @match        *://news.ycombinator.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ycombinator.com
 // @license      MIT
 // ==/UserScript==

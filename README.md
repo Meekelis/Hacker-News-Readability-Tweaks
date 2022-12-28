@@ -26,13 +26,13 @@ A userscript to improve Hackernews ([news.ycombinator.com](https://news.ycombina
 ### macOS - Safari
 
 1. Download and install a userscript Safari extension like [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887),
-2. Add [HackerNewsReadabilityTweaks.js](HackerNewsReadabilityTweaks.js) userscript. On GitHub, you may press "Raw" to see the script, and the Userscripts extension should ask you to install it,
+2. Add [HackerNewsReadabilityTweaks.user.js](https://raw.githubusercontent.com/Meekelis/Hacker-News-Readability-Tweaks/main/HackerNewsReadabilityTweaks.user.js) userscript. This can be achieved by navigating to it, clicking on the Userscripts toolbar button, and selecting to install the auto-detected script.
 3. Enjoy more readable [Hacker News](https://news.ycombinator.com).
 
 ### Other
 
 1. Install a userscript extension for your browser like [Violentmonkey](https://violentmonkey.github.io), [Tampermonkey](https://www.tampermonkey.net), or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/),
-2. Add [HackerNewsReadabilityTweaks.js](HackerNewsReadabilityTweaks.js) userscript to it using instructions provided by the extension maker. 
+2. Add [HackerNewsReadabilityTweaks.js](https://raw.githubusercontent.com/Meekelis/Hacker-News-Readability-Tweaks/main/HackerNewsReadabilityTweaks.user.js) userscript to it using instructions provided by the extension maker. 
 3. Enjoy more readable [Hacker News](https://news.ycombinator.com).
 
 ## Acknowledgment
