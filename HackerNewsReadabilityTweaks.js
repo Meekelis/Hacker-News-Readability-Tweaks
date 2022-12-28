@@ -185,6 +185,12 @@ const tampermonkeyScript = function() {
         content: \"⇧\";
       }
 
+      /* Login and register form styling. */
+      body:has(form[action="login"])
+      {
+        padding: 32px;
+      }
+
     </style>`);
 
     const comments = document.querySelectorAll('.commtext');
